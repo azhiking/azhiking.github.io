@@ -18,8 +18,8 @@
   
   <entry>
     <title>git学习笔记</title>
-    <link href="http://blog.tomhurry.com/wiki/1.%E7%BC%96%E7%A8%8B%E6%9D%82%E8%AE%B0/Git/git%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-    <id>http://blog.tomhurry.com/wiki/1.编程杂记/Git/git学习笔记/</id>
+    <link href="http://blog.tomhurry.com/wiki/%E7%BC%96%E7%A8%8B%E6%9D%82%E8%AE%B0/Git/git%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <id>http://blog.tomhurry.com/wiki/编程杂记/Git/git学习笔记/</id>
     <published>2019-09-11T07:37:24.000Z</published>
     <updated>2019-09-11T09:54:43.016Z</updated>
     
@@ -39,9 +39,9 @@
     </summary>
     
     
-      <category term="1.编程杂记" scheme="http://blog.tomhurry.com/categories/1-%E7%BC%96%E7%A8%8B%E6%9D%82%E8%AE%B0/"/>
+      <category term="编程杂记" scheme="http://blog.tomhurry.com/categories/%E7%BC%96%E7%A8%8B%E6%9D%82%E8%AE%B0/"/>
     
-      <category term="Git" scheme="http://blog.tomhurry.com/categories/1-%E7%BC%96%E7%A8%8B%E6%9D%82%E8%AE%B0/Git/"/>
+      <category term="Git" scheme="http://blog.tomhurry.com/categories/%E7%BC%96%E7%A8%8B%E6%9D%82%E8%AE%B0/Git/"/>
     
     
   </entry>
